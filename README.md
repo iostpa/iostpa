@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,docker)](https://skillicons.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/716306888492318790)](https://discord.com/users/716306888492318790)
 
