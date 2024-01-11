@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://discord.com/users/716306888492318790
+
 <!--
 **CuteDog5695/cutedog5695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
