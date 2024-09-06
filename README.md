@@ -1,7 +1,5 @@
 ### Hi there 👋
-## I'm CuteDog5695
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,docker)](https://skillicons.dev)
+## I'm CuteDog5695, this is my Github profile! If you want more information about me then go to [my website!](https://cutedog5695.me)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/716306888492318790)](https://discord.com/users/716306888492318790)
 
