@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ## I'm CuteDog5695, this is my Github profile! If you want more information about me then go to [my website!](https://cutedog5695.me)
 Not that much stuff here but I'll probably revamp this readme in an eternity or two.
 
